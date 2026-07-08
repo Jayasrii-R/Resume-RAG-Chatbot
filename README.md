@@ -81,7 +81,7 @@ Resume-RAG-Chatbot/
               Intelligent Answer
 
 
-# 💡 Example Questions
+💡 Example Questions
 
 - Tell me about my skills.
 - Summarize my experience.
@@ -91,7 +91,7 @@ Resume-RAG-Chatbot/
 - What are my strengths?
 - Give interview questions based on my resume.
 
-# 📈 Future Improvements
+📈 Future Improvements
 
 - Multiple Resume Support
 - Voice Interaction
@@ -102,7 +102,7 @@ Resume-RAG-Chatbot/
 - Chat History
 - Cloud Deployment
 
-# 🎯 Learning Outcomes
+🎯 Learning Outcomes
 
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models
